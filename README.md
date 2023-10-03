@@ -10,7 +10,7 @@ Wikipedia is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 •	Mode of Funding:
  Wikipedia relies primarily on donations from individual users and philanthropic organizations to fund its operations. The Wikimedia Foundation, a nonprofit organization, manages these funds. They run annual fundraising campaigns to sustain Wikipedia and its sister projects.
 
-•	Comercial use:
+•	Commercial use:
 In terms of commercial use, Wikipedia’s content can be used for commercial purposes as long as the terms of the CC BY-SA 3.0 license are followed ¹. However, the Wikimedia Foundation itself is a non-profit organization that relies on donations from individuals and organizations to fund its operations.
 
 •	Non-commercial use:
