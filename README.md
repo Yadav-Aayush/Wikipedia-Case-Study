@@ -11,10 +11,7 @@ Wikipedia is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
  Wikipedia relies primarily on donations from individual users and philanthropic organizations to fund its operations. The Wikimedia Foundation, a nonprofit organization, manages these funds. They run annual fundraising campaigns to sustain Wikipedia and its sister projects.
 
 •	Commercial use:
-In terms of commercial use, Wikipedia’s content can be used for commercial purposes as long as the terms of the CC BY-SA 3.0 license are followed ¹. However, the Wikimedia Foundation itself is a non-profit organization that relies on donations from individuals and organizations to fund its operations.
+In terms of commercial use, Wikipedia’s content can be used for commercial purposes as long as the terms of the CC BY-SA 3.0 license are followed. However, the Wikimedia Foundation itself is a non-profit organization that relies on donations from individuals and organizations to fund its operations. This entails providing proper attribution to Wikipedia and sharing any adaptations or derivative works under the same license
 
 •	Non-commercial use:
-Non-commercial use of Wikipedia content is also possible under certain conditions. For example, some Creative Commons licenses allow for non-commercial use only ⁵. Additionally, some organizations may choose to use Wikipedia content for non-commercial purposes as part of their corporate social responsibility initiatives.
-
-
-
+Wikipedia's content is also available for non-commercial use, including educational, research, and personal purposes. Educational institutions, researchers, and individuals can freely access and utilize Wikipedia's content, provided they follow the license terms, give appropriate credit to the source, and share any modifications or derivative works under the CC BY-SA license if applicable.
